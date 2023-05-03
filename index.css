@@ -151,3 +151,8 @@ a:hover{
     bottom:40px;
     height:auto;
 }
+@media  (max-width: 500px) {
+  .mountain{
+    width:100%;
+}
+}
